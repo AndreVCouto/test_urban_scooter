@@ -1,6 +1,6 @@
 # Urban.Scooter - Testes de Aplicação
 
-Urban.Scooter é um serviço que oferece aluguel de scooters elétricas por períodos limitados. Este repositório contém o projeto de testes, incluindo a análise e o design de testes para o aplicativo.
+Urban.Scooter é um serviço que oferece aluguel de scooters elétricas por períodos limitados. Este repositório contém  a análise e o design do aplicativo.
 
 <div align="center">
     <img src= "Urban Scooter Image.png" alt="Urban Scooter" width="900">
