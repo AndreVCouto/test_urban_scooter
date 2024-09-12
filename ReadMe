@@ -1,22 +1,35 @@
-Teste para o Aplicativo Urban.Scooter
+# Urban.Scooter - Testes de Aplicação
 
-O Urban.Scooter é um serviço que possibilita o aluguel de scooters elétricas por alguns dias.
+Urban.Scooter é um serviço que oferece aluguel de scooters elétricas por períodos limitados. Este repositório contém o projeto de testes, incluindo a análise e o design de testes para o aplicativo.
 
-Durante este projeto, fui responsável por realizar as seguintes atividades:
+## Funcionalidades Testadas
 
-Analisar e compreender a documentação do aplicativo.
-Desenvolver um mapa mental para organizar os requisitos.
-Dividir as funcionalidades em componentes menores e definir os objetos de teste.
-Elaborar o design dos testes para cobrir todos os requisitos.
-Utilizar classes de equivalência, valores-limite e tabelas de decisão.
-Otimizar a quantidade de testes nos testes de interface de usuário e na lógica das funcionalidades.
-Executar os testes e gerar relatórios de bugs.
-Usar o Postman para validar as requisições em URLs específicas.
-Avaliar meu conhecimento sobre os principais aspectos de testes.
-Analisar e criar o design de testes, realizando testes em aplicativos web e APIs.
-Documentar e relatar os bugs encontrados no Jira.
+- Análise da documentação do aplicativo
+- Criação de mapa mental para visualização de requisitos
+- Definição de objetos de teste a partir de blocos atômicos de funcionalidades
+- Design de testes cobrindo todos os requisitos do projeto
+- Aplicação de técnicas de testes como classes de equivalência, valores-limite e tabelas de decisão
+- Execução de testes de interface de usuário e testes lógicos dos recursos
+- Geração de relatórios de bugs após a execução dos testes
+- Verificação de requisições para URLs usando o Postman
+- Testes de APIs e aplicativos web
+- Relatório e documentação dos bugs encontrados no Jira
 
-Ferramentas utilizadas:
-Jira
-Postman
-Apidoc
+## Ferramentas Utilizadas
+
+- **Draw.io** - Para visualização de mapas mentais
+- **Jira** - Para documentação e acompanhamento de bugs
+- **Postman** - Para testes e verificação de requisições em APIs
+- **Apidoc** - Para documentação de APIs
+
+## Estrutura do Repositório
+
+- `/docs` - Contém a documentação do projeto, incluindo mapas mentais e tabelas de decisão
+- `/test-cases` - Inclui os casos de teste definidos e organizados
+- `/reports` - Relatórios de execução dos testes e documentação de bugs
+
+## Como Executar os Testes
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/urban-scooter-testes.git
