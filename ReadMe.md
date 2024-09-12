@@ -9,7 +9,6 @@ Urban.Scooter é um serviço que oferece aluguel de scooters elétricas por per�
 ## Funcionalidades Testadas
 
 - Análise da documentação do aplicativo
-- Criação de mapa mental para visualização de requisitos
 - Definição de objetos de teste a partir de blocos atômicos de funcionalidades
 - Design de testes cobrindo todos os requisitos do projeto
 - Aplicação de técnicas de testes como classes de equivalência, valores-limite e tabelas de decisão
