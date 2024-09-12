@@ -1,0 +1,22 @@
+Teste para o Aplicativo Urban.Scooter
+
+O Urban.Scooter é um serviço que possibilita o aluguel de scooters elétricas por alguns dias.
+
+Durante este projeto, fui responsável por realizar as seguintes atividades:
+
+Analisar e compreender a documentação do aplicativo.
+Desenvolver um mapa mental para organizar os requisitos.
+Dividir as funcionalidades em componentes menores e definir os objetos de teste.
+Elaborar o design dos testes para cobrir todos os requisitos.
+Utilizar classes de equivalência, valores-limite e tabelas de decisão.
+Otimizar a quantidade de testes nos testes de interface de usuário e na lógica das funcionalidades.
+Executar os testes e gerar relatórios de bugs.
+Usar o Postman para validar as requisições em URLs específicas.
+Avaliar meu conhecimento sobre os principais aspectos de testes.
+Analisar e criar o design de testes, realizando testes em aplicativos web e APIs.
+Documentar e relatar os bugs encontrados no Jira.
+
+Ferramentas utilizadas:
+Jira
+Postman
+Apidoc
